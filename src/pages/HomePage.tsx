@@ -265,25 +265,25 @@ export function HomePage() {
           <div className="relative">
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="https://images.unsplash.com/photo-1553406830-ef2513450d76?auto=format&fit=crop&w=500&q=80"
+                src="https://images.pexels.com/photos/7097230/pexels-photo-7097230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                 alt="Development boards"
                 className="aspect-square w-full rounded-2xl object-cover"
                 loading="lazy"
               />
               <img
-                src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=500&q=80"
+                src="https://images.pexels.com/photos/14887613/pexels-photo-14887613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                 alt="Electronic components"
                 className="mt-8 aspect-square w-full rounded-2xl object-cover"
                 loading="lazy"
               />
               <img
-                src="https://images.unsplash.com/photo-1581092160562-40aa0e693c14?auto=format&fit=crop&w=500&q=80"
+                src="https://images.pexels.com/photos/343457/pexels-photo-343457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                 alt="Circuit boards"
                 className="aspect-square w-full rounded-2xl object-cover"
                 loading="lazy"
               />
               <img
-                src="https://images.unsplash.com/photo-1451187580459-9546f893c31f?auto=format&fit=crop&w=500&q=80"
+                src="https://images.pexels.com/photos/7989742/pexels-photo-7989742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
                 alt="IoT solutions"
                 className="mt-8 aspect-square w-full rounded-2xl object-cover"
                 loading="lazy"

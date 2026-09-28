@@ -79,28 +79,29 @@ export const CATEGORIES = [
 
 export const CATEGORY_IMAGES: Record<string, string> = {
   'Development Boards':
-    'https://images.unsplash.com/photo-1553406830-ef2513450d76?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/7097230/pexels-photo-7097230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   'Sensors & Modules':
-    'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/14887613/pexels-photo-14887613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   Motors:
-    'https://images.unsplash.com/photo-1581092921461-eab62a97adf7?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/12093056/pexels-photo-12093056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   LEDs:
-    'https://images.unsplash.com/photo-1565636291923-c0e22c3a4f1b?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/20943579/pexels-photo-20943579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   Resistors:
-    'https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/343457/pexels-photo-343457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   Displays:
-    'https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/12379594/pexels-photo-12379594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   'IOT & Wireless':
-    'https://images.unsplash.com/photo-1451187580459-9546f893c31f?auto=format&fit=crop&w=800&q=80',
-  ICs: 'https://images.unsplash.com/photo-1603796349810-26b2888c305f?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/7989742/pexels-photo-7989742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  ICs:
+    'https://images.pexels.com/photos/343457/pexels-photo-343457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   Transistors:
-    'https://images.unsplash.com/photo-1581092160562-40aa0e693c14?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   Diodes:
-    'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/7286032/pexels-photo-7286032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   'Wires & Cables':
-    'https://images.unsplash.com/photo-1565608087348-1f54887dc3a4?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/27363017/pexels-photo-27363017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   'Battery & Power':
-    'https://images.unsplash.com/photo-1608216251941-9897a4d3a3a4?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/947407/pexels-photo-947407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   'Tools & Accessories':
-    'https://images.unsplash.com/photo-1530124566582-a618bc271f92?auto=format&fit=crop&w=800&q=80',
+    'https://images.pexels.com/photos/909256/pexels-photo-909256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
 };
