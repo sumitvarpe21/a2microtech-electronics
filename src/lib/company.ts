@@ -13,7 +13,7 @@ export const COMPANY = {
   pincode: '411062',
   copyright: '© 2025 A2MICROTECH INDIA PVT. LTD. All rights reserved.',
   team: [
-    { name: 'Avinash Ghalme', role: 'Founder & Director' },
+    { name: 'Avinash Ghalme', role: 'Co-Founder & Director' },
     { name: 'Akash Chechare', role: 'Co-Founder & Technical Lead' },
   ],
   about:
